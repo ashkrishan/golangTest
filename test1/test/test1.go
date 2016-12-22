@@ -1,7 +1,8 @@
-package main
+package test
 
 import "fmt"
 
-func main() {
+func Testfunc() {
 	fmt.Println("Test working")
+	Hellfunc()
 }
